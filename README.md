@@ -1,5 +1,7 @@
 # lucky-zsh-theme
-The word 吉 carry meaning of luck, what better place to have this lucky charm on your everyday onmyzsh theme.
+The word 吉 carry meaning of luck, what better place to have this lucky charm on your everyday zsh theme.
+
+![Lucky Zsh Theme](assets/lucky-zsh-theme-preview.png)
 
 ## Features
 - shows the current time
