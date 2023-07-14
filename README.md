@@ -1,6 +1,8 @@
 # lucky-zsh-theme
 The word 吉 carry [meaning of luck](https://en.wiktionary.org/wiki/%E5%90%89), what better place to have this lucky charm on your everyday zsh theme.
 
+We're also listed in the offical ohmyzsh themes [wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes#lucky).
+
 ![Lucky Zsh Theme](assets/lucky-zsh-theme-preview.png)
 
 ## Features
